@@ -1,6 +1,8 @@
+# zuzi_b /Discord/
+
 # Project_Power_BI
 
-V predchádzajúcich projektoch (Engeto - Projekt SQL: Dostupnosť základných potravín širokej verejnosti). Som cez SQL dotazy zodpovedala na požadované výskumné otázky, ktorými som porovnala dostupnosť potravín, prostredníctvom cien a priemerných príjmov za sledované časové obdobie v ČR a ostatných európskych krajinách. Následne som sa niektoré spracovala a vizualizovala prostredníctvom programu Power BI.
+V predchádzajúcich projektoch (Engeto - Projekt SQL: Dostupnosť základných potravín širokej verejnosti). Som cez SQL dotazy zodpovedala na požadované výskumné otázky, ktorými som porovnala dostupnosť potravín, prostredníctvom cien a priemerných príjmov za sledované časové obdobie v ČR a ostatných európskych krajinách. Následne som niektoré spracovala a vizualizovala prostredníctvom programu Power BI.
 
 Zadání projektu:
 Zpracovaní a vizualizace dat o mzdách a cenách potravin v ČR a jejích vývoj v letech 2000 – 2020. Porovnaní procentuálního meziročního nárůstu HDP, cen a mezd v letech 2003 – 2018.
